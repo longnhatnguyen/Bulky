@@ -16,11 +16,21 @@
 			<PrivateAssets>all</PrivateAssets>
 			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
 		</PackageReference>
-		<PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.1" />
+		<PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.16" />
 		<PackageReference Include="Stripe.net" Version="41.3.0-beta.1" />
 	</ItemGroup>
 	<ItemGroup>
 		<ProjectReference Include="..\BulkyBook.DataAccess\BulkyBook.DataAccess.csproj" />
 		<ProjectReference Include="..\BulkyBook.Utility\BulkyBook.Utility.csproj" />
+	</ItemGroup>
+	<ItemGroup>
+	  <Folder Include="Areas\Admin\Controllers\" />
+	  <Folder Include="Areas\Admin\Data\" />
+	  <Folder Include="Areas\Admin\Models\" />
+	  <Folder Include="Areas\Admin\Views\" />
+	  <Folder Include="Areas\Customer\Controllers\" />
+	  <Folder Include="Areas\Customer\Data\" />
+	  <Folder Include="Areas\Customer\Models\" />
+	  <Folder Include="Areas\Customer\Views\" />
 	</ItemGroup>
 </Project>
