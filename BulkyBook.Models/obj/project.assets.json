@@ -6893,11 +6893,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Seven77\\Desktop\\bulky\\Bulky\\BulkyBook.Models\\BulkyBook.Models.csproj",
+      "projectUniqueName": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.Models\\BulkyBook.Models.csproj",
       "projectName": "BulkyBook.Models",
-      "projectPath": "C:\\Users\\Seven77\\Desktop\\bulky\\Bulky\\BulkyBook.Models\\BulkyBook.Models.csproj",
+      "projectPath": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.Models\\BulkyBook.Models.csproj",
       "packagesPath": "C:\\Users\\Seven77\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Seven77\\Desktop\\bulky\\Bulky\\BulkyBook.Models\\obj\\",
+      "outputPath": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Seven77\\AppData\\Roaming\\NuGet\\NuGet.Config",

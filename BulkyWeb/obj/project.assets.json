@@ -12656,11 +12656,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Seven77\\Desktop\\bulky\\Bulky\\BulkyWeb\\BulkyWeb.csproj",
+      "projectUniqueName": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\BulkyWeb.csproj",
       "projectName": "BulkyWeb",
-      "projectPath": "C:\\Users\\Seven77\\Desktop\\bulky\\Bulky\\BulkyWeb\\BulkyWeb.csproj",
+      "projectPath": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\BulkyWeb.csproj",
       "packagesPath": "C:\\Users\\Seven77\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Seven77\\Desktop\\bulky\\Bulky\\BulkyWeb\\obj\\",
+      "outputPath": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Seven77\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -12677,11 +12677,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Seven77\\Desktop\\bulky\\Bulky\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\Seven77\\Desktop\\bulky\\Bulky\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj"
+            "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj"
             },
-            "C:\\Users\\Seven77\\Desktop\\bulky\\Bulky\\BulkyBook.Utility\\BulkyBook.Utility.csproj": {
-              "projectPath": "C:\\Users\\Seven77\\Desktop\\bulky\\Bulky\\BulkyBook.Utility\\BulkyBook.Utility.csproj"
+            "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.Utility\\BulkyBook.Utility.csproj": {
+              "projectPath": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.Utility\\BulkyBook.Utility.csproj"
             }
           }
         }

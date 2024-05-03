@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "opj+sczRN7NY0lxmdTxN9R7mSxfHZSYrdDdZoRzhzAZOMvyFpG2wpYNpj5b2ZlwcMQqdRJJsLonbBvtu3GuUPg==",
+  "dgSpecHash": "gzGFmrPn5MAXPJZkDuiPo9Vk8gXqXzbKC2J7gL9MrRi02k7STUKnG0+JIT59xS5hhIGOiXgdtJxqjB7JkwQb8g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Seven77\\Desktop\\bulky\\Bulky\\BulkyBook.Models\\BulkyBook.Models.csproj",
+  "projectFilePath": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.Models\\BulkyBook.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Seven77\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
     "C:\\Users\\Seven77\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

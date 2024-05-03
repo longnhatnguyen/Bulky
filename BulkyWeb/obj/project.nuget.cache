@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mZ2Qi+GVJmiRfqj3EO3HOsnhJPovgbCkgF0aV5/qkTM3AA2Sq0UFfb/5Rc3f2MWRgXDg/C/tynLpDc+17uGNVg==",
+  "dgSpecHash": "Pt6Q/YJGQv1nD/s3cR/ZAgnHWFO1G3hM8jXg1GpJ3OuhaDU5Bo4Ilhp2a/P+YG2zfh2GuUO952JH3oAp7Sc0hQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Seven77\\Desktop\\bulky\\Bulky\\BulkyWeb\\BulkyWeb.csproj",
+  "projectFilePath": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\BulkyWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Seven77\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Seven77\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
