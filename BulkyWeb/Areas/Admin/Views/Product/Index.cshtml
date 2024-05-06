@@ -22,10 +22,22 @@
         <thead>
             <tr>
                 <th>
-                    Product Name
+                    Title
                 </th>
                 <th>
-                    Display Order
+                    Description
+                </th>
+                 <th>
+                    ISBN
+                </th>
+                 <th>
+                    Author
+                </th>
+                 <th>
+                    ListPrice
+                </th>
+                <th>
+                    CategoryId
                 </th>
             </tr>
         </thead>
@@ -35,6 +47,10 @@
                 <tr>
                     <td> @obj.Title</td>
                     <td> @obj.Description</td>
+                    <td> @obj.ISBN</td>
+                    <td> @obj.Author</td>
+                    <td> @obj.ListPrice</td>
+                    <td> @obj.CategoryId</td>
                 </tr>
             <td>
                 <div class="w-65 btn-group" role="group">

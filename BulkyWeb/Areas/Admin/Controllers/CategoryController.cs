@@ -1,6 +1,7 @@
 ﻿using BulkyBook.DataAccess.Entities;
 using BulkyBook.DataAccess.Repository.IRepository;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 
 namespace BulkyWeb.Areas.Admin.Controllers
@@ -17,8 +18,14 @@ namespace BulkyWeb.Areas.Admin.Controllers
         }
         public IActionResult Index()
         {
-            var categoryList = _unitOfWork.Category.GetAll();
-            return View(categoryList);
+            //var categoryList = _unitOfWork.Category.GetAll();
+            IEnumerable<SelectListItem> CategoryList = _unitOfWork.Category.GetAll().Select(u => new SelectListItem
+            {
+                Text = u.Name,
+                Value = u.Id.ToString(),
+            });
+            ViewBag.CategoryList = CategoryList;
+            return View(CategoryList);
         }
         public IActionResult Create()
         {

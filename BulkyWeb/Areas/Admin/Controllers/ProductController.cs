@@ -2,6 +2,7 @@
 using BulkyBook.DataAccess.Repository.IRepository;
 using BulkyBook.Models.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Internal;
 
@@ -20,11 +21,18 @@ namespace BulkyWeb.Areas.Admin.Controllers
         public IActionResult Index()
         {
             var ProductList = _unitOfWork.Product.GetAll();
+           
             return View(ProductList);
         }
         public IActionResult Create()
         {
-            return View();
+			IEnumerable<SelectListItem> CategoryList = _unitOfWork.Category.GetAll().Select(u => new SelectListItem
+			{
+				Text = u.Name,
+				Value = u.Id.ToString(),
+			});
+			ViewBag.CategoryList = CategoryList;
+			return View();
         }
         [HttpPost]
         public async Task<IActionResult> Create(Product Product)
