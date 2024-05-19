@@ -18,14 +18,14 @@ namespace BulkyWeb.Areas.Admin.Controllers
         }
         public IActionResult Index()
         {
-            //var categoryList = _unitOfWork.Category.GetAll();
-            IEnumerable<SelectListItem> CategoryList = _unitOfWork.Category.GetAll().Select(u => new SelectListItem
-            {
-                Text = u.Name,
-                Value = u.Id.ToString(),
-            });
-            ViewBag.CategoryList = CategoryList;
-            return View(CategoryList);
+            var categoryList = _unitOfWork.Category.GetAll();
+            //IEnumerable<SelectListItem> CategoryList = _unitOfWork.Category.GetAll().Select(u => new SelectListItem
+            //{
+            //    Text = u.Name,
+            //    Value = u.Id.ToString(),
+            //});
+            //ViewBag.CategoryList = CategoryList;
+            return View(categoryList);
         }
         public IActionResult Create()
         {

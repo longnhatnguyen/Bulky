@@ -1,4 +1,5 @@
 ﻿using BulkyBook.DataAccess.Entities;
+using Microsoft.AspNetCore.Mvc.ModelBinding.Validation;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
@@ -39,8 +40,11 @@ namespace BulkyBook.Models.Models
         public double Price100 { get; set; }
 		public string ImageUrl { get; set; }
 
+		[ValidateNever]
 		public int CategoryId {  get; set; }
+
 		[ForeignKey("CategoryId")]
-        public Category Category { get; set; }
+		[ValidateNever]
+		public Category Category { get; set; }
     }
 }
