@@ -72,6 +72,7 @@ namespace BulkyWeb.Areas.Admin.Controllers
             }
             return View(category);
         }
+
         public async Task<IActionResult> DeleteById(int? id)
         {
             var category = _unitOfWork.Category.Get(c => c.Id == id);
