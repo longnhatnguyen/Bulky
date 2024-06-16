@@ -3,172 +3,164 @@
   "WorkspaceRootPath": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkyweb\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkyweb\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkyweb\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\seven77\\desktop\\github\\bulky\\bulkyweb\\areas\\admin\\views\\product\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\admin\\views\\product\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5479007A-0A9E-4ECC-83A5-FF8977A651E6}|BulkyBook.Utility\\BulkyBook.Utility.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkybook.utility\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5479007A-0A9E-4ECC-83A5-FF8977A651E6}|BulkyBook.Utility\\BulkyBook.Utility.csproj|solutionrelative:bulkybook.utility\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FD82CE1-7E26-4752-B97E-F56A8A4FD217}|BulkyBook.Models\\BulkyBook.Models.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkybook.models\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FD82CE1-7E26-4752-B97E-F56A8A4FD217}|BulkyBook.Models\\BulkyBook.Models.csproj|solutionrelative:bulkybook.models\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FD82CE1-7E26-4752-B97E-F56A8A4FD217}|BulkyBook.Models\\BulkyBook.Models.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkybook.models\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FD82CE1-7E26-4752-B97E-F56A8A4FD217}|BulkyBook.Models\\BulkyBook.Models.csproj|solutionrelative:bulkybook.models\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkyweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkyweb\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\seven77\\desktop\\github\\bulky\\bulkyweb\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkyweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\seven77\\desktop\\github\\bulky\\bulkyweb\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\seven77\\desktop\\github\\bulky\\bulkyweb\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkyweb\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\seven77\\desktop\\github\\bulky\\bulkyweb\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkyweb\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkyweb\\areas\\admin\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\admin\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkyweb\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkyweb\\areas\\admin\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\admin\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkyweb\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkyweb\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkyweb\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkyweb\\areas\\customer\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\customer\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkyweb\\areas\\customer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\seven77\\desktop\\github\\bulky\\bulkyweb\\areas\\customer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\customer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9078421D-E494-4776-AC33-C8A2F1591838}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkybook.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9078421D-E494-4776-AC33-C8A2F1591838}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|solutionrelative:bulkybook.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\seven77\\desktop\\github\\bulky\\bulkyweb\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FD82CE1-7E26-4752-B97E-F56A8A4FD217}|BulkyBook.Models\\BulkyBook.Models.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkybook.models\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FD82CE1-7E26-4752-B97E-F56A8A4FD217}|BulkyBook.Models\\BulkyBook.Models.csproj|solutionrelative:bulkybook.models\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\seven77\\desktop\\github\\bulky\\bulkyweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FD82CE1-7E26-4752-B97E-F56A8A4FD217}|BulkyBook.Models\\BulkyBook.Models.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkybook.models\\bulkybook.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{1FD82CE1-7E26-4752-B97E-F56A8A4FD217}|BulkyBook.Models\\BulkyBook.Models.csproj|solutionrelative:bulkybook.models\\bulkybook.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9078421D-E494-4776-AC33-C8A2F1591838}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkybook.dataaccess\\entities\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9078421D-E494-4776-AC33-C8A2F1591838}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|solutionrelative:bulkybook.dataaccess\\entities\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.DataAccess\\Migrations\\20240503141354_add-data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BulkyBook.DataAccess\\Migrations\\20240503141354_add-data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9078421D-E494-4776-AC33-C8A2F1591838}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkybook.dataaccess\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9078421D-E494-4776-AC33-C8A2F1591838}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|solutionrelative:bulkybook.dataaccess\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9078421D-E494-4776-AC33-C8A2F1591838}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkybook.dataaccess\\repository\\irepository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9078421D-E494-4776-AC33-C8A2F1591838}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|solutionrelative:bulkybook.dataaccess\\repository\\irepository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9078421D-E494-4776-AC33-C8A2F1591838}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkybook.dataaccess\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9078421D-E494-4776-AC33-C8A2F1591838}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|solutionrelative:bulkybook.dataaccess\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9078421D-E494-4776-AC33-C8A2F1591838}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkybook.dataaccess\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9078421D-E494-4776-AC33-C8A2F1591838}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|solutionrelative:bulkybook.dataaccess\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9078421D-E494-4776-AC33-C8A2F1591838}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkybook.dataaccess\\repository\\irepository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9078421D-E494-4776-AC33-C8A2F1591838}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|solutionrelative:bulkybook.dataaccess\\repository\\irepository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9078421D-E494-4776-AC33-C8A2F1591838}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkybook.dataaccess\\repository\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9078421D-E494-4776-AC33-C8A2F1591838}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|solutionrelative:bulkybook.dataaccess\\repository\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9078421D-E494-4776-AC33-C8A2F1591838}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkybook.dataaccess\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9078421D-E494-4776-AC33-C8A2F1591838}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|solutionrelative:bulkybook.dataaccess\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkyweb\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkyweb\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkyweb\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkyweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkyweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{5479007A-0A9E-4ECC-83A5-FF8977A651E6}|BulkyBook.Utility\\BulkyBook.Utility.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkybook.utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5479007A-0A9E-4ECC-83A5-FF8977A651E6}|BulkyBook.Utility\\BulkyBook.Utility.csproj|solutionrelative:bulkybook.utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\seven77\\desktop\\github\\bulky\\bulkyweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkyweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkyweb\\areas\\identity\\pages\\account\\manage\\email.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\identity\\pages\\account\\manage\\email.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkyweb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkyweb\\areas\\identity\\pages\\account\\externallogin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\identity\\pages\\account\\externallogin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkyweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5479007A-0A9E-4ECC-83A5-FF8977A651E6}|BulkyBook.Utility\\BulkyBook.Utility.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkybook.utility\\bulkybook.utility.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5479007A-0A9E-4ECC-83A5-FF8977A651E6}|BulkyBook.Utility\\BulkyBook.Utility.csproj|solutionrelative:bulkybook.utility\\bulkybook.utility.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkyweb\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1FD82CE1-7E26-4752-B97E-F56A8A4FD217}|BulkyBook.Models\\BulkyBook.Models.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkybook.models\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD82CE1-7E26-4752-B97E-F56A8A4FD217}|BulkyBook.Models\\BulkyBook.Models.csproj|solutionrelative:bulkybook.models\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkyweb\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkyweb\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkyweb\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{9078421D-E494-4776-AC33-C8A2F1591838}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkybook.dataaccess\\migrations\\20240526094902_applictionuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9078421D-E494-4776-AC33-C8A2F1591838}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|solutionrelative:bulkybook.dataaccess\\migrations\\20240526094902_applictionuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9078421D-E494-4776-AC33-C8A2F1591838}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.DataAccess\\Migrations\\20240503142113_add-data1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9078421D-E494-4776-AC33-C8A2F1591838}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|solutionrelative:BulkyBook.DataAccess\\Migrations\\20240503142113_add-data1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9078421D-E494-4776-AC33-C8A2F1591838}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkybook.dataaccess\\migrations\\20240526094422_addidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9078421D-E494-4776-AC33-C8A2F1591838}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|solutionrelative:bulkybook.dataaccess\\migrations\\20240526094422_addidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9078421D-E494-4776-AC33-C8A2F1591838}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkybook.dataaccess\\entities\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9078421D-E494-4776-AC33-C8A2F1591838}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|solutionrelative:bulkybook.dataaccess\\entities\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD82CE1-7E26-4752-B97E-F56A8A4FD217}|BulkyBook.Models\\BulkyBook.Models.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkybook.models\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD82CE1-7E26-4752-B97E-F56A8A4FD217}|BulkyBook.Models\\BulkyBook.Models.csproj|solutionrelative:bulkybook.models\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD82CE1-7E26-4752-B97E-F56A8A4FD217}|BulkyBook.Models\\BulkyBook.Models.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkybook.models\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD82CE1-7E26-4752-B97E-F56A8A4FD217}|BulkyBook.Models\\BulkyBook.Models.csproj|solutionrelative:bulkybook.models\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9078421D-E494-4776-AC33-C8A2F1591838}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkybook.dataaccess\\bulkybook.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9078421D-E494-4776-AC33-C8A2F1591838}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|solutionrelative:bulkybook.dataaccess\\bulkybook.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkyweb\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkyweb\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkyweb\\areas\\identity\\pages\\account\\manage\\managenavpages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\identity\\pages\\account\\manage\\managenavpages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD82CE1-7E26-4752-B97E-F56A8A4FD217}|BulkyBook.Models\\BulkyBook.Models.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkybook.models\\bulkybook.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1FD82CE1-7E26-4752-B97E-F56A8A4FD217}|BulkyBook.Models\\BulkyBook.Models.csproj|solutionrelative:bulkybook.models\\bulkybook.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkyweb\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD82CE1-7E26-4752-B97E-F56A8A4FD217}|BulkyBook.Models\\BulkyBook.Models.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkybook.models\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD82CE1-7E26-4752-B97E-F56A8A4FD217}|BulkyBook.Models\\BulkyBook.Models.csproj|solutionrelative:bulkybook.models\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkyweb\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9078421D-E494-4776-AC33-C8A2F1591838}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkybook.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9078421D-E494-4776-AC33-C8A2F1591838}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|solutionrelative:bulkybook.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkyweb\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkyweb\\areas\\customer\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\customer\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9078421D-E494-4776-AC33-C8A2F1591838}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkybook.dataaccess\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9078421D-E494-4776-AC33-C8A2F1591838}|BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj|solutionrelative:bulkybook.dataaccess\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkyweb\\areas\\admin\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\admin\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkyweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkyweb\\wwwroot\\js\\product.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\wwwroot\\js\\product.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|C:\\Users\\Seven77\\Desktop\\github\\Bulky\\bulkyweb\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{27F91512-2F5C-4A12-8C9D-5A0BD625681A}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -178,32 +170,502 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 38,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Notification.cshtml",
-              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Views\\Shared\\_Notification.cshtml",
-              "RelativeDocumentMoniker": "BulkyWeb\\Views\\Shared\\_Notification.cshtml",
-              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Views\\Shared\\_Notification.cshtml",
-              "RelativeToolTip": "BulkyWeb\\Views\\Shared\\_Notification.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-02T14:54:36.451Z",
+              "WhenOpened": "2024-06-09T10:05:10.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T10:04:57.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T10:04:43.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T10:04:24.977Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAmwEsAAAAAAAAA",
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-02T15:18:46.535Z"
+              "WhenOpened": "2024-06-09T10:03:36.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "BulkyWeb\\appsettings.json",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\appsettings.json",
+              "RelativeToolTip": "BulkyWeb\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-09T07:47:33.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Email.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml.cs",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml.cs",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAAAQwJoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T15:01:17.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ExternalLogin.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
+              "ViewState": "AQIAAJMAAAAAAAAAAAASwKYAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T15:00:52.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.Utility\\EmailSender.cs",
+              "RelativeDocumentMoniker": "BulkyBook.Utility\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.Utility\\EmailSender.cs",
+              "RelativeToolTip": "BulkyBook.Utility\\EmailSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:56:48.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SD.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.Utility\\SD.cs",
+              "RelativeDocumentMoniker": "BulkyBook.Utility\\SD.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.Utility\\SD.cs",
+              "RelativeToolTip": "BulkyBook.Utility\\SD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:11:55.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAIwAAAAAAAAAAAAhwJ8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T10:48:32.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAnwB4AAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T10:48:30.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240526094902_applictionuser.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.DataAccess\\Migrations\\20240526094902_applictionuser.cs",
+              "RelativeDocumentMoniker": "BulkyBook.DataAccess\\Migrations\\20240526094902_applictionuser.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.DataAccess\\Migrations\\20240526094902_applictionuser.cs",
+              "RelativeToolTip": "BulkyBook.DataAccess\\Migrations\\20240526094902_applictionuser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T09:49:02.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.Models\\Models\\Company.cs",
+              "RelativeDocumentMoniker": "BulkyBook.Models\\Models\\Company.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.Models\\Models\\Company.cs",
+              "RelativeToolTip": "BulkyBook.Models\\Models\\Company.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T09:47:52.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.Models\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "BulkyBook.Models\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.Models\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "BulkyBook.Models\\Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T09:47:32.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240526094422_addIdentity.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.DataAccess\\Migrations\\20240526094422_addIdentity.cs",
+              "RelativeDocumentMoniker": "BulkyBook.DataAccess\\Migrations\\20240526094422_addIdentity.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.DataAccess\\Migrations\\20240526094422_addIdentity.cs",
+              "RelativeToolTip": "BulkyBook.DataAccess\\Migrations\\20240526094422_addIdentity.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T09:44:22.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T19:22:08.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAkwBEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T18:49:37.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAawBAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T18:42:31.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ManageNavPages.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAIBJwBkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T18:36:09.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BulkyBook.Utility.csproj",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.Utility\\BulkyBook.Utility.csproj",
+              "RelativeDocumentMoniker": "BulkyBook.Utility\\BulkyBook.Utility.csproj",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.Utility\\BulkyBook.Utility.csproj",
+              "RelativeToolTip": "BulkyBook.Utility\\BulkyBook.Utility.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-25T16:25:58.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.Models\\ViewModels\\ProductVM.cs",
+              "RelativeDocumentMoniker": "BulkyBook.Models\\ViewModels\\ProductVM.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.Models\\ViewModels\\ProductVM.cs",
+              "RelativeToolTip": "BulkyBook.Models\\ViewModels\\ProductVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T16:03:58.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BulkyBook.Models.csproj",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.Models\\BulkyBook.Models.csproj",
+              "RelativeDocumentMoniker": "BulkyBook.Models\\BulkyBook.Models.csproj",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.Models\\BulkyBook.Models.csproj",
+              "RelativeToolTip": "BulkyBook.Models\\BulkyBook.Models.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-25T16:03:09.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BulkyBook.DataAccess.csproj",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj",
+              "RelativeDocumentMoniker": "BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj",
+              "RelativeToolTip": "BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-25T15:58:19.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.DataAccess\\Entities\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BulkyBook.DataAccess\\Entities\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.DataAccess\\Entities\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BulkyBook.DataAccess\\Entities\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T15:53:12.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T15:36:07.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Areas\\Customer\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Customer\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Areas\\Customer\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Customer\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T15:35:15.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.DataAccess\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "BulkyBook.DataAccess\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.DataAccess\\Repository\\Repository.cs",
+              "RelativeToolTip": "BulkyBook.DataAccess\\Repository\\Repository.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAIwD8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T15:32:47.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "RelativeDocumentMoniker": "BulkyBook.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "RelativeToolTip": "BulkyBook.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T15:31:35.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.Models\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "BulkyBook.Models\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.Models\\Models\\Product.cs",
+              "RelativeToolTip": "BulkyBook.Models\\Models\\Product.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAASwBUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T14:00:12.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwCAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T13:58:50.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAiwBMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T13:57:23.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BulkyWeb\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BulkyWeb\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T13:57:13.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABkAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T16:21:00.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "BulkyWeb\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "BulkyWeb\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-19T16:15:31.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T16:07:42.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Program.cs",
+              "RelativeDocumentMoniker": "BulkyWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Program.cs",
+              "RelativeToolTip": "BulkyWeb\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:06:01.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "product.js",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\wwwroot\\js\\product.js",
+              "RelativeDocumentMoniker": "BulkyWeb\\wwwroot\\js\\product.js",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\wwwroot\\js\\product.js",
+              "RelativeToolTip": "BulkyWeb\\wwwroot\\js\\product.js",
+              "ViewState": "AQIAABIAAAAAAAAAAIBJwCkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-19T16:05:07.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAUwBwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:04:54.247Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -213,485 +675,10 @@
               "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
               "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAFwAAAAAAAAAAAAAAGoAAAAVAAAA",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwEIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T15:13:18.939Z",
+              "WhenOpened": "2024-05-19T16:04:52.455Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
-              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
-              "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-02T15:19:12.292Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "BulkyWeb\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "BulkyWeb\\Controllers\\CategoryController.cs",
-              "ViewState": "AQIAADUAAAAAAAAAAAAUwFwAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T14:10:27.878Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "BulkyWeb\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "BulkyWeb\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T14:09:42.673Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductVM.cs",
-              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.Models\\ViewModels\\ProductVM.cs",
-              "RelativeDocumentMoniker": "BulkyBook.Models\\ViewModels\\ProductVM.cs",
-              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.Models\\ViewModels\\ProductVM.cs",
-              "RelativeToolTip": "BulkyBook.Models\\ViewModels\\ProductVM.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T14:34:47.583Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.Models\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "BulkyBook.Models\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.Models\\Models\\Product.cs",
-              "RelativeToolTip": "BulkyBook.Models\\Models\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T15:07:27.136Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UpSert.cshtml",
-              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Product\\UpSert.cshtml",
-              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Views\\Product\\UpSert.cshtml",
-              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Product\\UpSert.cshtml",
-              "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Views\\Product\\UpSert.cshtml",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEAAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-06T15:51:53.943Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ViewState": "AQIAAEkAAAAAAAAAAAAcwGEAAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T14:13:01.781Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "BulkyWeb\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "BulkyWeb\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAADAAAAAAAAAAAAAAADkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-02T14:19:25.03Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-02T15:20:30.429Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-03T14:38:16.973Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
-              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
-              "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-02T15:19:49.837Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-06T15:15:54.639Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Category\\Create.cshtml",
-              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Views\\Category\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Category\\Create.cshtml",
-              "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Views\\Category\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-06T15:24:12.03Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-06T15:15:52.505Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Areas\\Customer\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Customer\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Areas\\Customer\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "BulkyWeb\\Areas\\Customer\\Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-06T15:15:50.333Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Areas\\Customer\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Customer\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Areas\\Customer\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "BulkyWeb\\Areas\\Customer\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-06T15:15:48.004Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "20240503142113_add-data1.cs",
-              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.DataAccess\\Migrations\\20240503142113_add-data1.cs",
-              "RelativeDocumentMoniker": "BulkyBook.DataAccess\\Migrations\\20240503142113_add-data1.cs",
-              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.DataAccess\\Migrations\\20240503142113_add-data1.cs",
-              "RelativeToolTip": "BulkyBook.DataAccess\\Migrations\\20240503142113_add-data1.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAgwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T14:21:14.09Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "BulkyBook.Models",
-              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.Models\\BulkyBook.Models.csproj",
-              "RelativeDocumentMoniker": "BulkyBook.Models\\BulkyBook.Models.csproj",
-              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.Models\\BulkyBook.Models.csproj",
-              "RelativeToolTip": "BulkyBook.Models\\BulkyBook.Models.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-06T14:34:22.442Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.DataAccess\\Repository\\Repository.cs",
-              "RelativeDocumentMoniker": "BulkyBook.DataAccess\\Repository\\Repository.cs",
-              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.DataAccess\\Repository\\Repository.cs",
-              "RelativeToolTip": "BulkyBook.DataAccess\\Repository\\Repository.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAUwBgAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T15:09:31.448Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.Models\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "BulkyBook.Models\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.Models\\Models\\Category.cs",
-              "RelativeToolTip": "BulkyBook.Models\\Models\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T15:07:14.022Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "20240503141354_add-data.cs",
-              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.DataAccess\\Migrations\\20240503141354_add-data.cs",
-              "RelativeDocumentMoniker": "BulkyBook.DataAccess\\Migrations\\20240503141354_add-data.cs",
-              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.DataAccess\\Migrations\\20240503141354_add-data.cs",
-              "RelativeToolTip": "BulkyBook.DataAccess\\Migrations\\20240503141354_add-data.cs",
-              "ViewState": "AQIAAFQAAAAAAAAAAAAowAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T14:13:54.49Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.DataAccess\\Entities\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "BulkyBook.DataAccess\\Entities\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.DataAccess\\Entities\\ApplicationDbContext.cs",
-              "RelativeToolTip": "BulkyBook.DataAccess\\Entities\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAE0AAAAAAAAAAAAIwGkAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T14:33:01.747Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.DataAccess\\Repository\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "BulkyBook.DataAccess\\Repository\\CategoryRepository.cs",
-              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.DataAccess\\Repository\\CategoryRepository.cs",
-              "RelativeToolTip": "BulkyBook.DataAccess\\Repository\\CategoryRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T14:41:53.155Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.DataAccess\\Repository\\IRepository\\IRepository.cs",
-              "RelativeDocumentMoniker": "BulkyBook.DataAccess\\Repository\\IRepository\\IRepository.cs",
-              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.DataAccess\\Repository\\IRepository\\IRepository.cs",
-              "RelativeToolTip": "BulkyBook.DataAccess\\Repository\\IRepository\\IRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T14:44:00.985Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
-              "RelativeDocumentMoniker": "BulkyBook.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
-              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
-              "RelativeToolTip": "BulkyBook.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T14:45:55.047Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.DataAccess\\Repository\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "BulkyBook.DataAccess\\Repository\\UnitOfWork.cs",
-              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.DataAccess\\Repository\\UnitOfWork.cs",
-              "RelativeToolTip": "BulkyBook.DataAccess\\Repository\\UnitOfWork.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T14:46:22.7Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.DataAccess\\Repository\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "BulkyBook.DataAccess\\Repository\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.DataAccess\\Repository\\ProductRepository.cs",
-              "RelativeToolTip": "BulkyBook.DataAccess\\Repository\\ProductRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T15:09:44.138Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.DataAccess\\Repository\\IRepository\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "BulkyBook.DataAccess\\Repository\\IRepository\\IProductRepository.cs",
-              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.DataAccess\\Repository\\IRepository\\IProductRepository.cs",
-              "RelativeToolTip": "BulkyBook.DataAccess\\Repository\\IRepository\\IProductRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T15:10:42.22Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
-              "RelativeDocumentMoniker": "BulkyBook.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
-              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyBook.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
-              "RelativeToolTip": "BulkyBook.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T14:43:53.861Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "_Layout.cshtml.css",
-              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeDocumentMoniker": "BulkyWeb\\Views\\Shared\\_Layout.cshtml.css",
-              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeToolTip": "BulkyWeb\\Views\\Shared\\_Layout.cshtml.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-05-02T14:23:36.103Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Areas\\Customer\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Customer\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Areas\\Customer\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "BulkyWeb\\Areas\\Customer\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBQAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T14:10:18.488Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "BulkyWeb\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "BulkyWeb\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-02T14:54:40.695Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Program.cs",
-              "RelativeDocumentMoniker": "BulkyWeb\\Program.cs",
-              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Program.cs",
-              "RelativeToolTip": "BulkyWeb\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T14:09:26.297Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\appsettings.json",
-              "RelativeDocumentMoniker": "BulkyWeb\\appsettings.json",
-              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\appsettings.json",
-              "RelativeToolTip": "BulkyWeb\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-02T14:38:20.578Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "BulkyWeb\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Properties\\launchSettings.json",
-              "RelativeToolTip": "BulkyWeb\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-02T14:55:56.426Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "BulkyWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "BulkyWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-02T14:54:37.676Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "BulkyWeb\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "BulkyWeb\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-02T14:54:39.429Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "BulkyWeb\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "BulkyWeb\\Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-02T14:54:41.896Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "BulkyWeb\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\Seven77\\Desktop\\github\\Bulky\\BulkyWeb\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "BulkyWeb\\ScaffoldingReadMe.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-05-02T14:09:24.862Z"
             }
           ]
         }
